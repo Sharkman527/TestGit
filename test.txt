@@ -9,3 +9,5 @@ hi, this is my first test file!
 hi, this is my first test file!
 hi, this is my first test file!
 hi, this is my first test file!
+
+test switching to branch: crazy-idea
